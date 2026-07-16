@@ -82,8 +82,8 @@ Completing an industry-ready JavaScript associate training track, being evaluate
 <img src="https://skillicons.dev/icons?i=githubactions,docker,linux,bash,nginx&theme=dark" />
 &nbsp;
 ![PM2](https://img.shields.io/badge/PM2-2B037A?style=flat-square&logo=pm2&logoColor=white)
-![IIS](https://img.shields.io/badge/IIS-0078D4?style=flat-square&logo=microsoftedge&logoColor=white)
-![Windows Server](https://img.shields.io/badge/Windows_Server-0078D4?style=flat-square&logo=windows&logoColor=white)
+![IIS](https://img.shields.io/badge/IIS-0078D4?style=flat-square)
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D4?style=flat-square)
 
 **Testing & QA**
 
