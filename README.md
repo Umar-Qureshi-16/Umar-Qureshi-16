@@ -82,7 +82,7 @@ Completing an industry-ready JavaScript associate training track, being evaluate
 <img src="https://skillicons.dev/icons?i=githubactions,docker,linux,bash,nginx&theme=dark" />
 &nbsp;
 ![PM2](https://img.shields.io/badge/PM2-2B037A?style=flat-square&logo=pm2&logoColor=white)
-![IIS](https://img.shields.io/badge/IIS-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![IIS](https://img.shields.io/badge/IIS-0078D4?style=flat-square&logo=microsoftedge&logoColor=white)
 ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D4?style=flat-square&logo=windows&logoColor=white)
 
 **Testing & QA**
@@ -117,7 +117,7 @@ Completing an industry-ready JavaScript associate training track, being evaluate
 
 <br/>
 
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Umar-Qureshi-16&theme=dark&hide_border=true&background=0d1117&ring=38BDF8&fire=F59E0B&currStreakLabel=38BDF8" />
+<img width="100%" src="https://streak-stats.demolab.com/?user=Umar-Qureshi-16&theme=dark&hide_border=true&background=0d1117&ring=38BDF8&fire=F59E0B&currStreakLabel=38BDF8" />
 
 <br/>
 
